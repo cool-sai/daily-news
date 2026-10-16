@@ -3,112 +3,108 @@
 "date": "2026-10-16",
 "headline": "早上好，10 月 16 日（周五）的晨报：",
 "highlights": [
-"【Grok / xAI】Grok Voice / Bot 能力与订阅打包继续铺开，Grok 4.8 仍未官宣",
-"亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75",
-"教导学生通过问题进行思考和学习（传闻）"
+"蚂蚁百灵开源 Ling-3.1-flash：560B 总参 / 25B 激活，最高 1M 上下文",
+"昆仑万维开源 Matrix-Game 4.0：单卡 RTX 5090 实时跑游戏世界模型",
+"【Grok / xAI】Grok Bot 持续升温，黄仁勋点名需求猛增；Grok 4.8 仍未官宣"
 ],
 "counts": {
 "AI / 大模型": 10,
 "跨行业重点": 5,
-"热门影视": 4,
+"热门影视": 3,
 "个人开发者案例": 3,
 "产品建议": 1
 },
 "items": [
 {
 "section": "AI / 大模型",
-"title": "【Grok / xAI】Grok Voice / Bot 能力与订阅打包继续铺开，Grok 4.8 仍未官宣"
+"title": "蚂蚁百灵开源 Ling-3.1-flash：560B 总参 / 25B 激活，最高 1M 上下文"
 },
 {
 "section": "AI / 大模型",
-"title": "亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75"
+"title": "昆仑万维开源 Matrix-Game 4.0：单卡 RTX 5090 实时跑游戏世界模型"
 },
 {
 "section": "AI / 大模型",
-"title": "OpenCode 2.0（传闻）"
+"title": "亚马逊 Bee 推出 Frontier / Eclipse 两款个人 AI 设备，起价约 75 美元"
 },
 {
 "section": "AI / 大模型",
-"title": "教导学生通过问题进行思考和学习（传闻）"
+"title": "【Grok / xAI】Grok Bot 持续升温，黄仁勋点名需求猛增；Grok 4.8 仍未官宣"
 },
 {
 "section": "AI / 大模型",
-"title": "AMP使AI代理能够使用OpenAI模型进行超越代码的工作（传闻）"
+"title": "开源 AI 编程代理 OpenCode 2.0 大改版：本地后台服务 + Code Mode"
 },
 {
 "section": "AI / 大模型",
-"title": "SentinelOne将恶意软件分析从数周减少到数小时（传闻）"
+"title": "面壁等联合开源 PilotDeck 2.0：办公 Agent 工作台，长任务可续跑"
 },
 {
 "section": "AI / 大模型",
-"title": "Third Moment Research如何在超过36小时的时间内运行10,000名客服代表（传闻）"
+"title": "Amp 用 OpenAI 模型把 AI Agent 从写代码扩到更广工作流"
 },
 {
 "section": "AI / 大模型",
-"title": "Block如何使用OpenAI技术构建人工智能驱动的安全（传闻）"
+"title": "Figma 发布 Agent 工作方式定义能力，代码层进入开放测试（传闻）"
 },
 {
 "section": "AI / 大模型",
-"title": "人工智能特工来到Rivian的车上（传闻）"
+"title": "阶跃终端发布 STEPX Neo：首款大模型原生「Agent 手机」（传闻）"
 },
 {
 "section": "AI / 大模型",
-"title": "谷歌通用购物车购物工具在美国推出（传闻）"
+"title": "Rivian 计划把 AI Agent 装进车机，细节或留待 12 月 AI 日（传闻）"
 },
 {
 "section": "跨行业重点",
-"title": "在创纪录的季度中，台积电芯片产能对AI客户来说是“激烈”的战场（传闻）"
+"title": "台积电创纪录季度下，AI 客户争抢先进制程产能（传闻）"
 },
 {
 "section": "跨行业重点",
-"title": "AWS ， Anthropic竞相部署专业工程师大军，这是证明人工智能支出将获得回报的关键（传闻）"
+"title": "AWS、Anthropic 等加码「前沿部署」工程师，证明 AI 投入能赚钱（传闻）"
 },
 {
 "section": "跨行业重点",
-"title": "两个市场的故事：过去五周我们的三大赢家和输家（传闻）"
+"title": "传闻：Anthropic 第三季度收入约 168 亿美元，IPO 前被热议"
 },
 {
 "section": "跨行业重点",
-"title": "《Morning Squawk》中的华尔街最新AI幽灵、Netflix裁员、“好债”等（传闻）"
+"title": "存储芯片股承压：市场担忧中国供应与 2029 年过剩（传闻）"
 },
 {
 "section": "跨行业重点",
-"title": "记忆库存受到重创。中国和2029年供应过剩是最大的担忧（传闻）"
+"title": "黄仁勋呼吁美中就「潜在危险」的 AI 保持对话（传闻）"
 },
 {
 "section": "热门影视",
-"title": "Outerlight Entertainment购买的Bleecker Street"
+"title": "猫眼：2026年10月票房破15亿，《神探之痕迹》领跑"
 },
 {
 "section": "热门影视",
-"title": "Talia Ryder、Elizabeth Marvel和Bill Camp加入STX & Aggregate的真实犯罪惊悚片《公关》"
+"title": "Netflix 纪录片聚焦纳塔莉·霍洛威失踪案定档播出"
 },
 {
 "section": "热门影视",
-"title": "顶级机构领导新的联盟推动美国独立制作"
-},
-{
-"section": "热门影视",
-"title": "Natalee Holloway失踪文件在Netflix首映"
+"title": "热映口碑：《神探之痕迹》猫眼口碑前列，豆瓣开画约6.8分"
 },
 {
 "section": "个人开发者案例",
-"title": "Show HN ：触发器， Iroh驱动的文件共享持久隧道"
+"title": "GitHub 趋势：scientific-agent-skills，把 Agent 变成「AI 科学家」技能包"
 },
 {
 "section": "个人开发者案例",
-"title": "Show HN: Ito –在Lua中构建终端用户界面"
+"title": "GitHub 趋势：Anthropic 官方 Claude Code 插件目录上线"
 },
 {
 "section": "个人开发者案例",
-"title": "Show HN ： Petal ，开源CoScreen/ScreenHero终于免费了"
+"title": "GitHub 趋势：context-mode，给编码 Agent 压缩长上下文"
 },
 {
 "section": "产品建议",
-"title": "做一个 Grok Bot 多 Agent 分工模板页，放作品站引流"
+"title": "在作品站做一页「求职向 Grok Bot 多 Agent 分工」模板"
 }
 ],
-"text": "早上好，10 月 16 日（周五）的晨报： **今日重点：** 1. 【Grok / xAI】Grok Voice / Bot 能力与订阅打包继续铺开，Grok 4.8 仍未官宣 2. 亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75 3. 教导学生通过问题进行思考和学习（传闻） ## AI / 大模型 1. **【Grok / xAI】Grok Voice / Bot 能力与订阅打包继续铺开，Grok 4.8 仍未官宣** 延续 Voice 与 Bot 企业能力推进；X Subscription / Business 相关讨论仍热，4.8 官方发布仍未确认。 [xAI](https://x.ai/news) 2. **亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75** 亚马逊旗下的Bee自收购以来推出了首批新的人工智能设备，包括更新的可穿戴设备和连接到智能手机的信用卡大小的录音机。这些设备可以总结对话，创建待办事项列表，并与Alexa和亚马逊购物集成，价格从 （原文标题：Amazon’s Bee launches two new personal AI devices, starting at $75） [TechCrunch-AI](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) 3. **OpenCode 2.0（传闻）** HN 789 分 [HackerNews-Top](https://anoma.ly/notes/opencode-2-0/) 4. **教导学生通过问题进行思考和学习（传闻）** 用巴西葡萄牙语的AI for Educators庆祝教师节，并了解学习模式如何帮助教师支持积极、循序渐进的学习。 （原文标题：Teaching students to think and learn through questions） [OpenAI-News](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) 5. **AMP使AI代理能够使用OpenAI模型进行超越代码的工作（传闻）** 了解Amp如何突破代理商使用GPT-6 Astra、Ultrafast、GPT-Live-1和使用ChatGPT登录所能做的事情的前沿。 （原文标题：Amp puts AI agents to work beyond code with OpenAI models） [OpenAI-News](https://openai.com/index/amp-beyond-coding) 6. **SentinelOne将恶意软件分析从数周减少到数小时（传闻）** 借助OpenAI Daybreak ， SentinelOne将数周的恶意软件分析时间缩短到数小时，从而创建调查更多威胁的能力。 （原文标题：SentinelOne cuts malware analysis from weeks to hours） [OpenAI-News](https://openai.com/index/sentinelone) 7. **Third Moment Research如何在超过36小时的时间内运行10,000名客服代表（传闻）** 借助用于网络安全的GPT-6 Astra和GPT-6.1 Sol、Codex和Daybreak ，该人工智能实验室构建了专注于数天并随着使用而改进的代理。 （原文标题：How Third Moment Research runs 10,000 agents for 36+ hours） [OpenAI-News](https://openai.com/index/third-moment-research) 8. **Block如何使用OpenAI技术构建人工智能驱动的安全（传闻）** Block正在使用OpenAI构建人工智能驱动的安全性。其安全团队更快地调查威胁，并在几分钟内提出补丁。 （原文标题：How Block is building AI-powered security with OpenAI technology） [OpenAI-News](https://openai.com/index/block-ai-powered-security) 9. **人工智能特工来到Rivian的车上（传闻）** 我们可能会在公司即将于12月举行的“人工智能和自治日”活动中了解更多有关其工作原理的信息。 （原文标题：AI agents are coming to Rivian’s cars） [TechCrunch-AI](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/) 10. **谷歌通用购物车购物工具在美国推出（传闻）** 新的购物工具可在美国的Google搜索和Gemini应用程序中使用。 （原文标题：Google’s Universal Cart shopping tool launches in the US） [TechCrunch-AI](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/) **其他速览：** TechCrunch Disrupt 2026 ：最后一天（传闻）；Figma宣布推出新功能，以定义客服代表在其平台上的工作方式（传闻）；Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机（传闻）；Gudea利用人工智能帮助组织预防社交媒体危机爆发（传闻）；Flock首席执行官表示，其麦克风检测到“只是枪声” —其网站上说不同（传闻）。 ## 跨行业重点 1. **在创纪录的季度中，台积电芯片产能对AI客户来说是“激烈”的战场（传闻）** 台积电有一个创纪录的季度，但它不能为所有人制造芯片，因为英伟达、苹果、博通和AMD都在争夺产能。 （原文标题：TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter） [CNBC-Tech](https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html) 2. **AWS ， Anthropic竞相部署专业工程师大军，这是证明人工智能支出将获得回报的关键（传闻）** 随着公司寻求人工智能投资的回报， AWS、Anthropic、OpenAI和Google正在竞相建立前沿部署的工程团队。 （原文标题：AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off） [CNBC-Tech](https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html) 3. **两个市场的故事：过去五周我们的三大赢家和输家（传闻）** 分裂的市场创造了巨大的赢家和输家。以下是自上次月度会议以来我们的股票表现。 （原文标题：Tale of two markets: Our 3 biggest winners and losers over the past five weeks） [CNBC-Tech](https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html) 4. **《Morning Squawk》中的华尔街最新AI幽灵、Netflix裁员、“好债”等（传闻）** 以下是投资者在开始交易日时需要了解的五个关键事项。 （原文标题：Wall Street's latest AI spook, Netflix layoffs, 'good debt' and more in Morning Squawk） [CNBC-Tech](https://www.cnbc.com/2026/10/15/5-things-to-know-before-the-stock-market-opens.html) 5. **记忆库存受到重创。中国和2029年供应过剩是最大的担忧（传闻）** SK海力士(SK Hynix)、三星(Samsung)和美光(Micron)是最新技术抛售中一些受影响最严重的公司。 （原文标题：Memory stocks are getting hammered. China and a 2029 oversupply are the big worries） [CNBC-Tech](https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html) **其他速览：** 英伟达首席执行官黄延森敦促美中就“潜在危险”的人工智能进行对话（传闻）；关于SpaceX以军事为重点的Starlink服务Starshield的详细信息（传闻）；台积电连续第六个季度实现创纪录利润，高于人工智能繁荣的预期（传闻）；Anthropic的第三季度收入据说在IPO之前达到168亿美元（传闻）；英伟达、AMD、戴尔抛售人工智能融资担忧的全球技术溃败（传闻）。 ## 热门影视 1. **Outerlight Entertainment购买的Bleecker Street** Outerlight Entertainment ，前身为First Look Entertainment ，已收购独立工作室Bleecker Street Media。目前， Bleecker St （原文标题：Bleecker Street Bought By Outerlight Entertainment） [Deadline](https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222/) 2. **Talia Ryder、Elizabeth Marvel和Bill Camp加入STX & Aggregate的真实犯罪惊悚片《公关》** 独家： Talia Ryder （《Never Rarely Sometimes Always》）将与Kit Connor和Diana Silvers在《公关》中饰演第三个主角，这是我们最近从STX （原文标题：Talia Ryder, Elizabeth Marvel & Bill Camp Join STX & Aggregate’s True-Crime Thriller ‘PRƎPPY’） [Deadline](https://deadline.com/2026/10/talia-ryder-elizabeth-marvel-bill-camp-join-preppy-thriller-1237157757/) 3. **顶级机构领导新的联盟推动美国独立制作** 一群人才机构和制作人联手创建了美国娱乐联盟，致力于促进美国独立制作。 （原文标题：Top Agencies Lead New Coalition To Push For U.S. Indie Production） [Deadline](https://deadline.com/2026/10/caa-wme-uta-coalition-for-independent-production-1237158217/) 4. **Natalee Holloway失踪文件在Netflix首映** Netflix正在其最新纪录片系列中探索美国青少年娜塔莉·霍洛威（ Natalee Holloway ）的失踪。 （原文标题：Natalee Holloway Disappearance Doc Sets Premiere At Netflix） [Deadline](https://deadline.com/2026/10/natalee-holloway-disappearance-doc-premiere-netflix-1237157430/) ## 个人开发者案例 1. **Show HN ：触发器， Iroh驱动的文件共享持久隧道** 这是一个项目，因为我对使用LocalSend和DashBeam在设备之间传输内容感到沮丧，并且为了快速的额外目标，尝试使用Slint框架，最重要的是，与可信赖的外部人员建立沟通渠道， （原文标题：Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing） [ShowHN](https://github.com/andunieee/flipflop) 2. **Show HN: Ito –在Lua中构建终端用户界面** 我和我的朋友都是Neovim的超级书呆子。我们喜欢为终端和编辑提供服务。 （原文标题：Show HN: Ito – Build Terminal UIs in Lua） [ShowHN](https://uji.sh/ito/) 3. **Show HN ： Petal ，开源CoScreen/ScreenHero终于免费了** HN ，您好！我是CoScreen的创始人之一Jason Thomas。正如你们中的一些人所知， Datadog于7月31日推出了CoScreen服务。来自原始CoScreen团队的我们中的四个人在过 （原文标题：Show HN: Petal, open-source CoScreen/ScreenHero finally free） [ShowHN](https://petal.live/) ## 产品建议 1. **做一个 Grok Bot 多 Agent 分工模板页，放作品站引流** 借 Grok Bot 团队用法热度，做可复制的多 Bot 分工模板与接入说明，引流个人作品站。 [产品建议](https://x.ai/news) "
+"text": "早上好，10 月 16 日（周五）的晨报： **今日重点：** 1. 蚂蚁百灵开源 Ling-3.1-flash：560B 总参 / 25B 激活，最高 1M 上下文 2. 昆仑万维开源 Matrix-Game 4.0：单卡 RTX 5090 实时跑游戏世界模型 3. 【Grok / xAI】Grok Bot 持续升温，黄仁勋点名需求猛增；Grok 4.8 仍未官宣 ## AI / 大模型 1. **蚂蚁百灵开源 Ling-3.1-flash：560B 总参 / 25B 激活，最高 1M 上下文** MIT 权重上线 Hugging Face与 ModelScope；主打编程与 Agent，官方称可降至约 4 卡部署。今日国产开源主线之一。 [Hugging Face / 第一财经](https://huggingface.co/inclusionAI/Ling-3.1-flash) 2. **昆仑万维开源 Matrix-Game 4.0：单卡 RTX 5090 实时跑游戏世界模型** 引擎管规则与状态、视频模型做渲染；官方称 480p/60fps、按键到画面低于 150ms，权重与游戏源码一并开源。 [GitHub / 量子位](https://github.com/SkyworkAI/Matrix-Game) 3. **亚马逊 Bee 推出 Frontier / Eclipse 两款个人 AI 设备，起价约 75 美元** 收购后首批新品：腕戴/别针可穿戴 Frontier（$74.99）与磁吸手机附件 Eclipse（$99.99）；可总结对话、生成待办，并可选接入 Alexa 与亚马逊购物。 [TechCrunch-AI](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) 4. **【Grok / xAI】Grok Bot 持续升温，黄仁勋点名需求猛增；Grok 4.8 仍未官宣** 马斯克与英伟达黄仁勋近日都提到 Grok Bot 增长快；Voice/多 Agent 用法继续铺开，4.8 官方发布仍未确认。 [xAI](https://x.ai/news) 5. **开源 AI 编程代理 OpenCode 2.0 大改版：本地后台服务 + Code Mode** anomalyco/opencode 进入 2.x：终端/Web/桌面共用本地服务，支持后台子代理与 MCP 脚本化；HN 讨论热烈，迁移与安全配置仍有吐槽。 [HackerNews-Top](https://github.com/anomalyco/opencode) 6. **面壁等联合开源 PilotDeck 2.0：办公 Agent 工作台，长任务可续跑** OpenBMB 发布 v2026.10.16；主打一键安装、可视化配置与 Word/Excel/PPT Skills，模型可本地或云端切换。 [GitHub OpenBMB](https://github.com/OpenBMB/PilotDeck) 7. **Amp 用 OpenAI 模型把 AI Agent 从写代码扩到更广工作流** OpenAI 官博介绍 Amp：除编程外可调度 GPT-6 Astra / Ultrafast 等模型做更长链路代理任务，并支持 ChatGPT 登录。 [OpenAI-News](https://openai.com/index/amp-beyond-coding) 8. **Figma 发布 Agent 工作方式定义能力，代码层进入开放测试（传闻）** Figma 新增约束 Agent 在画布上如何协作的能力，并把真实代码层（含 Payload 建站后台）推进到开放 beta。 [TechCrunch-AI](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/) 9. **阶跃终端发布 STEPX Neo：首款大模型原生「Agent 手机」（传闻）** 量子位报道 STEPX Neo 以智能体为中心做系统交互，面向创客先行；属国产 Agent 终端落地尝试，细节以官方后续为准。 [量子位](https://www.qbitai.com/2026/10/503201.html) 10. **Rivian 计划把 AI Agent 装进车机，细节或留待 12 月 AI 日（传闻）** TechCrunch 称 Rivian 正把车载助手往可执行任务的 Agent 推进；更多产品细节可能在 12 月「AI and Autonomy Day」公布。 [TechCrunch-AI](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/) **其他速览：** 谷歌 Universal Cart 在美国上线：搜索与 Gemini 里跨店加购（传闻）；TechCrunch Disrupt 2026 最后一天（传闻）；Ricursive：押注 AI 设计芯片缓解算力瓶颈（传闻）；Gudea：用 AI 提前预警社交媒体公关危机（传闻）；Flock CEO 称麦克风「只识别枪声」，官网表述却不一致（传闻）。 ## 跨行业重点 1. **台积电创纪录季度下，AI 客户争抢先进制程产能（传闻）** CNBC：英伟达、苹果、博通、AMD 等对台积电产能争夺激烈；即便业绩创新高，也难以同时满足所有 AI 芯片需求。 [CNBC-Tech](https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html) 2. **AWS、Anthropic 等加码「前沿部署」工程师，证明 AI 投入能赚钱（传闻）** 云厂商与实验室竞相组建专门把模型落地到客户现场的工程团队，被视为生成式 AI 开支能否兑现回报的关键一环。 [CNBC-Tech](https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html) 3. **传闻：Anthropic 第三季度收入约 168 亿美元，IPO 前被热议** CNBC 援引消息称 Anthropic 三季度收入达约 168 亿美元；属 IPO 前市场传闻，尚未见公司正式财报确认。 [CNBC-Tech](https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html) 4. **存储芯片股承压：市场担忧中国供应与 2029 年过剩（传闻）** SK 海力士、三星、美光随科技股回调明显走弱；交易员把中国扩产与中期供给过剩列为主要风险叙事。 [CNBC-Tech](https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html) 5. **黄仁勋呼吁美中就「潜在危险」的 AI 保持对话（传闻）** 英伟达 CEO 对 CNBC 表示自己与中国研究者保持沟通，强调大国需要就高风险 AI 议题对话，而非脱钩。 [CNBC-Tech](https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html) **其他速览：** SpaceX 军事向 Starlink 服务 Starshield 细节再披露（传闻）；台积电连续第六季创纪录利润，AI 需求超预期（传闻）；英伟达、AMD、戴尔等科技股因 AI 融资担忧回调（传闻）；Cramer：不必因波动放弃股市，给出最新持仓理由（传闻）；美国八州起诉 OpenAI，聚焦 ChatGPT 安全问题（传闻）。 ## 热门影视 1. **猫眼：2026年10月票房破15亿，《神探之痕迹》领跑** 据猫眼专业版，10月大盘票房已破15亿；《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》分列月榜前三，前者市占约三成。 [猫眼专业版 / 新浪](https://www.sina.cn/news/detail/5353987538421160.html) 2. **Netflix 纪录片聚焦纳塔莉·霍洛威失踪案定档播出** Deadline：流媒体将推出关于美国青少年 Natalee Holloway 失踪事件的纪录内容，属近期平台真实案件题材上新。 [Deadline](https://deadline.com/2026/10/natalee-holloway-disappearance-doc-premiere-netflix-1237157430/) 3. **热映口碑：《神探之痕迹》猫眼口碑前列，豆瓣开画约6.8分** 猫眼热映口碑榜10/15更新，《神探之痕迹》居国产新片前列；豆瓣公开评分约6.8分（样本约7万人），国庆档后仍在带大盘。 [猫眼口碑榜](https://baidu.maoyan.com/asgard/board/7) ## 个人开发者案例 1. **GitHub 趋势：scientific-agent-skills，把 Agent 变成「AI 科学家」技能包** K-Dense-AI 开源面向科研的 Agent Skills 库，覆盖生化医药等百余数据库接口，兼容 Cursor / Claude Code 等。 [GitHub-Trending](https://github.com/K-Dense-AI/scientific-agent-skills) 2. **GitHub 趋势：Anthropic 官方 Claude Code 插件目录上线** anthropics/claude-plugins-official 收录官方维护的高质量 Claude Code 插件，方便个人开发者按场景安装扩展。 [GitHub-Trending](https://github.com/anthropics/claude-plugins-official) 3. **GitHub 趋势：context-mode，给编码 Agent 压缩长上下文** 开源工具聚焦 Agent 长对话里的上下文管理与压缩，适合本地搭多步编程代理时控制 token 与噪声。 [GitHub-Trending](https://github.com/mksglu/context-mode) ## 产品建议 1. **在作品站做一页「求职向 Grok Bot 多 Agent 分工」模板** 对接今日 Grok Bot 热度：写清调研/简历/面试模拟三角色、一键复制提示词与接入步骤，引流 https://www.lssl.work 。 [产品建议](https://x.ai/news) "
 },
 {
 "date": "2026-10-15",
